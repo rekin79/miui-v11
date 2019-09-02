@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="sim_card_detection_mobile_not_available">"Karta SIM nie ma połączenia z siecią"</string>
+  <string name="sim_scard_detecting_check_mobile_not_available">"Twoja karta SIM nie ma połączenia z siecią operatora. Sprawdź ważność pakietu danych i spróbuj ponownie."</string>
+  <string name="start_up_slogan"/>
+  <string name="accessibility_enabled">Ułatwienia dostępu włączone.</string>
+  <string name="agree">Zgadzam się</string>
+  <string name="agree_terms">"Przeczytałem i zgadzam się z Warunkami Usług i Polityką Prywatności"</string>
+  <string name="agree_terms_input_method_facemoji">"Przeczytałem i zgadzam się z Polityką prywatności Facemoji."</string>
+  <string name="agree_terms_input_method_kika">"Przeczytałem i zgadzam się z Polityką prywatności Kika."</string>
+  <string name="ai_button_desc">Użyj tego przycisku, aby włączyć Mi SI i wykonywać zadania na urządzeniu za pomocą głosu</string>
+  <string name="ai_button_double_press">Dwuklik</string>
+  <string name="ai_button_double_press_desc">Ustaw funkcje Mi SI</string>
+  <string name="ai_button_long_press">Kliknij i przytrzymaj</string>
+  <string name="ai_button_long_press_desc">Powiedz komendę i puść przycisk</string>
+  <string name="ai_button_single_press">Klik</string>
+  <string name="ai_button_single_press_desc">Włącz Mi SI</string>
+  <string name="ai_button_title">O przycisku SI</string>
+  <string name="app_name">Pierwsza konfiguracja</string>
+  <string name="application_permissions">Uprawnienia Aplikacji</string>
+  <string name="back">Cofnij</string>
+  <string name="cm_terms_content">"Wybrany operator komórkowy może zbierać dane statystyczne na temat tego urządzenia i jego wykorzystania. Dane te mogą być przesyłane przez Wi-Fi i dane komórkowe do serwerów w sieci. Informacje te nie będą służyć do indentyfikacji danych osobistych ani nie będą przekazywane podmiotom trzecim."</string>
+  <string name="cm_terms_title">Informacje o operatorze</string>
+  <string name="congratulation_label">MIUIPolska.pl​</string>
+  <string name="congratulation_label_night">Sprawdź nasz nowy, ciemny motyw!</string>
+  <string name="congratulation_swipe">Przesuń w górę, aby przejść do systemu</string>
+  <string name="congratulation_title">Wszystko gotowe</string>
+  <string name="content_description_complete">Gotowe</string>
+  <string name="content_description_language_picker">Wybór języka</string>
+  <string name="content_description_miui_version">MIUI 10</string>
+  <string name="content_description_start">Rozpocznij</string>
+  <string name="continue_to_enable_accessibility">Przesuń w dół dwoma palcami, aby uruchomić ułatwienia dostępu.</string>
+  <string name="desc_extra_fingerprint"/>
+  <string name="desc_extra_international_fingerprint"/>
+  <string name="desc_fingerprint">Użyj odcisku palca do odblokowania swojego urządzenia, weryfikacji transakcji Mi Pay lub logowania do aplikacji i usług.</string>
+  <string name="desc_international_fingerprint">Użyj odcisku palca do odblokowania swojego urządzenia lub logowania do aplikacji i usług.</string>
+  <string name="disagree">Nie zgadzam się</string>
+  <string name="enable_accessibility_canceled">Dostępność anulowana.</string>
+  <string name="enable_accessibility_dialog_message">Włączyłeś TalkBack przez przytrzymanie 2-oma palcami na ekranie przez 10 sekund. TalkBack zapewnia wspomaganie głosowe dla osób z upośledzeniem wzroku. Jeśli włączyłeś funkcję przez przypadek naciśnij Anuluj, a potem podwójnie naciśnij na ekran.</string>
+  <string name="enable_accessibility_dialog_negative_btn">Anuluj</string>
+  <string name="enable_accessibility_dialog_positive_btn">OK</string>
+  <string name="fail_to_generate_qr_code">Nie można wygenerować kodu QR. Spróbuj ponownie.</string>
+  <string name="font_hint_normal">Zmień rozmiar czcionki</string>
+  <string name="font_hint_large">Domyślny rozmiar czcionki</string>
+  <string name="ime_privacy_policy">Polityka Prywatności wybranej klawiatury</string>
+  <string name="ime_privacy_policy_no_network">"Nie można połączyć się z siecią. Wyświetl Politykę Prywatności z %s."</string>
+  <string name="input_method_category">"Wybierz domyślną klawiaturę do wprowadzania tekstu.
+Później będziesz mógł zainstalować inne klawiatury z Google Play."</string>
+  <string name="input_method_setting">Wybierz domyślną klawiaturę</string>
+  <string name="install_preinstall_app">Wczytywanie aplikacji…</string>
+  <string name="item_fingerprint">Odcisk palca</string>
+  <string name="item_lock_screen_password">Tylko hasło, PIN lub wzór</string>
+  <string name="language_picker_other_languages_title">Inne języki</string>
+  <string name="language_settings">Język</string>
+  <string name="locale_picker_other_locale_title">Inne regiony</string>
+  <string name="locale_picker_title">Wybierz swój region</string>
+  <string name="miui_privacy_policy_no_network">Brak połączenia z siecią. Przeczytaj Politykę Prywatności na %s.</string>
+  <string name="miui_terms_no_network">Brak połączenia z siecią. Przeczytaj Warunki Użytkowania na %s.</string>
+  <string name="multisim_settings_category">Opcje kart SIM</string>
+  <string name="multisim_settings_title">Wykryto 2 karty SIM</string>
+  <string name="navigation_picker_gesture_guide">Gesty</string>
+  <string name="navigation_picker_radio_text_full_screen">Gesty</string>
+  <string name="navigation_picker_radio_text_virtual_key">Przyciski na ekranie</string>
+  <string name="next">Dalej</string>
+  <string name="next_fingerprint">Dalej</string>
+  <string name="other_settings">Inne ustawienia</string>
+  <string name="other_settings_ad_enable">Reklamy</string>
+  <string name="other_settings_ad_enable_summary">W tym systemie reklamy od Xiaomi są wyłączone. Opcja nie ma zastosowania.</string>
+  <string name="other_settings_auto_update">Automatyczne aktualizacje</string>
+  <string name="other_settings_auto_update_summary">Aktualizacje OTA od Xiaomi.eu</string>
+  <string name="other_settings_enhanced_lockscreen">Tapety ekranu blokady</string>
+  <string name="other_settings_enhanced_lockscreen_privacy_index">Polityka prywatności</string>
+  <string name="other_settings_enhanced_lockscreen_summary">Codziennie na ekranie blokady będą się pojawiać nowe tapety online</string>
+  <string name="other_settings_enhanced_lockscreen_summary_index">Zgoda użytkownika końcowego Glance</string>
+  <string name="other_settings_location">Lokalizacja</string>
+  <string name="other_settings_location_summary">Zezwól na dostęp aplikacji do lokalizacji</string>
+  <string name="other_settings_mifg_online_content">Dzienne tapety blokady</string>
+  <string name="other_settings_mifg_online_content_summary">Połącz z siecią, aby pobierać regularnie nowe tapety ekranu blokady</string>
+  <string name="other_settings_upload_debug_log_summary">Dane z diagnostyki systemu mogą zawierać informacje o problemach ze sprzętem, systemem lub aplikacjami. Dane te będą wykorzystywane tylko w celu zdiagnozowania problemów z urządzeniem.</string>
+  <string name="other_settings_upload_debug_log_title">Wysyłaj dane diagnostyczne</string>
+  <string name="other_settings_user_experience">Opinie użytkowników</string>
+  <string name="other_settings_user_experience_summary">"Pomóż nam w ulepszaniu produktów przez przesyłanie anonimowych danych."</string>
+  <string name="other_settings_user_experience_summary_index">Szczegóły</string>
+  <string name="poco_agree_terms_other">(Włączając Politykę prywatności i zgodę użytkownika POCO Launcher)</string>
+  <string name="pref_title_data_slot">Preferowana karta SIM (internet)</string>
+  <string name="pref_title_voice_slot">Preferowana karta SIM (rozmowy)</string>
+  <string name="privacy_policy">Polityka Prywatności</string>
+  <string name="provision_inputmethod_policy_description">"
+Wybór ten możesz potem zmienić w Ustawieniach telefonu"</string>
+  <string name="provision_inputmethod_policy_description1"/>
+  <string name="setting_locale">Ustawianie języka...</string>
+  <string name="shut_down">Wyłącz</string>
+  <string name="sim_card_detecting">Sprawdzanie karty SIM…</string>
+  <string name="sim_card_detecting_check">"Nie wiesz jak? Przeczytaj instrukcję dołączoną do telefonu.
+
+Aktywowanie włożonych kart SIM może potrwać kilka sekund."</string>
+  <string name="sim_card_detecting_confirm_turn_on_network">Zezwolić na połączenie za pomocą danych komórkowych? Jeśli tak, to użyta do tego zostanie karta SIM włożona do tego urządzenia.</string>
+  <string name="sim_card_detecting_title">Wykryj karty SIM</string>
+  <string name="sim_card_detection">Włóż karty SIM</string>
+  <string name="sim_card_detection_info">"Nie wiesz jak? Przeczytaj instrukcję dołączoną do telefonu.
+
+Aktywowanie włożonych kart SIM może potrwać kilka sekund."</string>
+  <string name="sim_dectection_next">Dalej</string>
+  <string name="sim_redetection">Sprawdź ponownie</string>
+  <string name="skip_gesture_guide_dialog_title">Gesty</string>
+  <string name="skip_gesture_guide_dialog_message">Upewnij się, że wiesz, jak używać gestów przed wybraniem tej opcji.</string>
+  <string name="skip_gesture_guide_dialog_negative_btn">Anuluj</string>
+  <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
+  <string name="skip_underline">Pomiń</string>
+  <string name="start_up_slogan_night">Sprawdź nasz nowy, ciemny motyw!</string>
+  <string name="summary_not_set">Nieustawione</string>
+  <string name="system_navigation_mode">Nawigacja w systemie</string>
+  <string name="terms_of_use">Warunki Użytkowania</string>
+  <string name="terms_of_use_ble_htmlViewer">, Usługi dostawcy lokalizacji, Przeglądarki HTML</string>
+  <string name="terms_of_use_label">"Twoja prywatność jest dla nas bardzo ważna. Zapoznaj się z naszymi Warunkami użytkowania i Polityką prywatności, aby dowiedzieć się, jakie informacje przechowujemy, jak je wykorzystujemy i jakie masz możliwości.
+
+Musisz się zgodzić na nasze Warunki użytkowania i Politykę prywatności, nim będziesz mógł skorzystać z MIUI. Podczas aktywacji %s i komponenty konta Xiaomi podłączą się do internetu i uzyskają dostęp do lokalizacji."</string>
+  <string name="terms_of_use_label_gms">"Twoja prywatność jest dla nas bardzo ważna. Zapoznaj się z naszymi Warunkami użytkowania i Polityką prywatności, aby dowiedzieć się, jakie informacje przechowujemy, jak je wykorzystujemy i jakie masz możliwości.
+
+Musisz się zgodzić na nasze Warunki użytkowania i Politykę prywatności, nim będziesz mógł skorzystać z MIUI. Podczas aktywacji usługi Xiaomi, funkcja Lokalizacja urządzenia, usługi rejestracji karty SIM, Chmury Xiaomi, komponenty systemu MSA/MAB podłączą się do internetu i uzyskają dostęp do lokalizacji."</string>
+  <string name="terms_of_use_label_package">, Instalator paczek</string>
+  <string name="terms_of_use_label_phrase">, Częste zwroty</string>
+  <string name="terms_of_use_label_systemhelper">, Self-registered service</string>
+  <string name="terms_of_use_label_updater">, Aktualizacje</string>
+  <string name="terms_of_use_lable_apps">usługi Xiaomi, funkcja Lokalizacja urządzenia, usługi rejestracji karty SIM, Chmury Xiaomi, komponenty systemu MSA/MAB</string>
+  <string name="terms_of_use_lable_default_input_method_facemoji">"
+
+Musisz zgodzić się z Polityką prywatności Facemoji przed użyciem tej funkcji."</string>
+  <string name="terms_of_use_lable_default_input_method_kika">"
+
+Musisz zgodzić się z Polityką prywatności Kika przed użyciem tej funkcji."</string>
+  <string name="terms_of_use_lable_gms">, Usługi Google Play</string>
+  <string name="terms_of_use_lable_smart_cards">, Karty asystenta</string>
+  <string name="terms_privacy_policy_input_method_facemoji">Polityka prywatności Facemoji</string>
+  <string name="terms_privacy_policy_input_method_kika">Polityka prywatności Kika</string>
+  <string name="title_fingerprint">Ustaw blokadę</string>
+  <string name="two_dimensional_code_scan">Skanuj kod QR</string>
+  <string name="user_agreement">Regulamin Usługi</string>
+  <string name="voice_assist_advice">Mi AI pozwala używać kontrolować telefon za pomocą głosu, ale zużywa więcej energii (+1% na godzinę).</string>
+  <string name="voice_assist_condition">"Możesz używać Mi AI, gdy:
+1. ekran jest włączony,
+2. słuchasz muzyki na wyłączonym ekranie."</string>
+  <string name="voice_assist_desp">Powiedz \"Mi AI\" do telefonu. Możesz w ten sposób kontrolować urządzenie.</string>
+  <string name="voice_assist_title">Wybudź głosem</string>
+  <string name="welcome">Witamy</string>
+  <string name="zone_picker_title">Strefa czasowa</string>
+</resources>

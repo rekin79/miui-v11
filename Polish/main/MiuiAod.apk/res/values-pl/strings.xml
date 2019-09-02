@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="abc_action_bar_home_description">Przejdź do strony głównej</string>
+	<string name="abc_action_bar_up_description">Przejdź wyżej</string>
+	<string name="abc_action_menu_overflow_description">Więcej opcji</string>
+	<string name="abc_action_mode_done">Gotowe</string>
+	<string name="abc_activity_chooser_view_see_all">Zobacz wszystkie</string>
+	<string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+	<string name="abc_capital_off">WYŁ.</string>
+	<string name="abc_capital_on">WŁ.</string>
+	<string name="abc_search_hint">Szukaj…</string>
+	<string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+	<string name="abc_searchview_description_query">Wyszukiwane hasło</string>
+	<string name="abc_searchview_description_search">Szukaj</string>
+	<string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+	<string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+	<string name="abc_shareactionprovider_share_with">Udostępnij dla</string>
+	<string name="abc_shareactionprovider_share_with_application">Udostępnij dla %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accessibility_battery_level">Bateria %d procent.</string>
+    <string name="accessibility_battery_level_charging">Ładowanie baterii, %d procent.</string>
+	<string name="always_style">Zawsze</string>
+	   <string name="animation_clock_panel">Falujący</string>
+    <string name="aod_close_color_inversion">"Ta funkcja nie działa razem z inwersją kolorów. Wyłącz inwersję kolorów, aby móc używać tej funkcji."</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">Podgląd</string>
+    <string name="aod_mode_style">Styl i tło zegara</string>
+    <string name="aod_mode_style_title">Więcej opcji</string>
+    <string name="aod_mode_summary">Pokazuj godzinę, datę i wiadomości na wyłączonym ekranie. Ta funkcja zwiększa użycie baterii. Jest ona automatycznie wyłączana, gdy urządzenie nie jest używane przez długi czas lub włączone jest Oszczędzanie baterii.</string>
+    <string name="aod_mode_time_summary">Zaplanuj czas włączenia trybu Ekran zawsze włączony</string>
+    <string name="aod_mode_time_title">Zaplanowane</string>
+    <string name="aod_mode_title">Ekran zawsze włączony</string>
+    <string name="aod_show_style_title">Wyświetlanie</string>
+    <string name="aod_to_close">Wyłącz</string>
+    <string name="apply">Zastosuj</string>
+    <string name="background_icon">Tło</string>
+    <string name="black_white_clock_panel">Zegar</string>
+    <string name="cancel">Anuluj</string>
+    <string name="character_counter_content_description">Limit znaków osiągnął %1$d z %2$d</string>
+    <string name="choose_aod_style">Wybierz motyw</string>
+    <string name="clock_panel_icon">Styl zegarka</string>
+    <string name="color_change_with_time_description">Zmieniaj kolor tekstu automatycznie</string>
+    <string name="color_change_with_time_title">Zmieniaj kolor</string>
+    <string name="deep_space_planet">Przestrzeń kosmiczna</string>
+    <string name="deep_space_planet_des">\"Przestrzeń kosmiczna\" odwzorowuje zmiany światła podczas dnia. Wschody i zachody słońca w tym motywie są zsynchronizowane z Twoją lokalizacją.</string>
+    <string name="large_time">Duży zegar</string>
+    <string name="mini_time">Mały zegar</string>
+    <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>
+    <string name="only_show_bg_description">"Nie pokazuj godziny, daty i innych elementów"</string>
+    <string name="only_show_bg_title">Pokazuj tylko tło</string>
+    <string name="paper_mode_end_time_title">Wyłącz</string>
+    <string name="paper_mode_start_time_title">Włącz</string>
+    <string name="password_toggle_content_description">Pokazuj hasło</string>
+    <string name="scheduled_style">Gdy zaplanowane</string>
+    <string name="search_menu_title">Szukaj</string>
+    <string name="show_battery_status">Pokazuj stan baterii</string>
+    <string name="show_notification">Pokazuj powiadomienia</string>
+    <string name="standard_style">Standardowy</string>
+    <string name="summary">"Aby ograniczyć użycie baterii, elementy nie będą wyświetlane:
+1. gdy urządzenie jest nieużytkowane przez dłuższy czas,
+2. gdy włączony jest tryb Nie przeszkadzać."</string>
+    <string name="temporary_style">Przez 10 sekund po dotknięciu</string>
+    <string name="text_color">Kolor tekstu</string>
+</resources>

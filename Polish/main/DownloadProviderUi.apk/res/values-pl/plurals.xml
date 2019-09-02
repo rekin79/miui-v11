@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Usunąć %d pobrań?</item>
+        <item quantity="one">Usunąć %d pobranie?</item>
+		<item quantity="few">Usunąć %d pobrania?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Pomyślnie usunięto %s pobrań</item>
+        <item quantity="one">Pomyślnie usunięto %s pobranie</item>
+		<item quantity="few">Pomyślnie usunięto %s pobrania</item>
+    </plurals>
+   <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Usunąć %d elementów?</item>
+        <item quantity="one">Usunąć ten element?</item>
+    </plurals>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">Znaleziono %d elementów</item>
+        <item quantity="one">Znaleziono 1 element</item>
+        <item quantity="few">Znaleziono %d elementy</item>
+    </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">Znaleziono %d rezultatów</item>
+        <item quantity="one">Znaleziono 1 rezultat</item>
+        <item quantity="few">Znaleziono %d rezultaty</item>
+    </plurals>
+</resources>
