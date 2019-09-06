@@ -480,11 +480,13 @@ Ta wiadomość może być niechciana."</string>
   <string name="notification_channel_sim2_description">Powiadomienia o SMS z SIM 2</string>
   <string name="notification_channel_sim2_name">SMS z SIM 2</string>
   <string name="notification_copy">Kopiuj HJ</string>
+  <string name="notification_delete">Usuń</string>
   <string name="notification_failed_multiple">Nie można wysłać %s wiadomości.</string>
   <string name="notification_failed_multiple_title">Wiadomości nie zostały wysłane</string>
   <string name="notification_group_name">Wiadomości</string>
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Nowe wiadomości</string>
+  <string name="notification_seen">Przeczytane</string>
   <string name="number_add_hint">Wpisz numer by dodać do Prywatnego kontaktu</string>
      <string name="number_recognition_partner">Dostawcy usługi rozpoznawania ID nadawcy</string>
   <string name="open_audio_record_panel">Otwórz nagrywanie</string>
