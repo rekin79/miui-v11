@@ -1410,9 +1410,9 @@ Uwaga: Tylko dla Ubuntu 8.04!"</item>
         <item>Brak</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
+        <item>"Nie wybudzaj ekranu"</item>
         <item>Wybudź ekran</item>
         <item>Pokaż animację</item>
-        <item>"Nie wybudzaj ekranu"</item>
     </string-array>
     <string-array name="automatic_storage_management_days">
         <item>Starsze niż 30 dni</item>

@@ -522,6 +522,8 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_talkback_switch_image_captcha">Przełącz na kod z obrazka</string>
   <string name="passport_talkback_switch_voice_captcha">Przełącz na kod dźwiękowy</string>
   <string name="passport_talkback_voice_captcha">Odtwórz kod weryfikacji</string>
+  <string name="passport_ticket_login_select_sim_card">Wybierz kartę SIM</string>
+  <string name="passport_ticket_login_select_sim_card_cancel">Anuluj</string>
   <string name="passport_title_reg">Utwórz konto</string>
   <string name="passport_trust_device">Dodaj do zaufanych urządzeń</string>
   <string name="passport_trying_read_verify_code_sms">Otrzymywanie kodu…</string>
@@ -617,7 +619,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="system_ad_list">Lista aplikacji</string>
   <string name="system_ad_summary">Xiaomi pokazuje reklamy w swoich aplikacjach (ponoć w celu dalszego rozwijania swoich produktów...). Na xiaomi.eu reklamy te są wyłączone, opcja ta nie ma więc żadnego zastosowania.</string>
   <string name="system_ad_switch">Reklamy w aplikacjach systemu (włączone domyślnie)</string>
-  <string name="system_ad_switch_failed">Nieudane</string>
+  <string name="system_ad_switch_failed">Nie udało się zmienić ustawienia</string>
   <string name="talkback_scan_barcode">Skanuj kod QR</string>
   <string name="temporary_not_available">Ta funkcja nie jest jeszcze dostępna.</string>
   <string name="trusted_browsers">Zaufane przeglądarki</string>

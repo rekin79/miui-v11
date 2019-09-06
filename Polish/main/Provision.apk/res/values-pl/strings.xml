@@ -27,7 +27,7 @@
   <string name="congratulation_title">Wszystko gotowe</string>
   <string name="content_description_complete">Gotowe</string>
   <string name="content_description_language_picker">Wybór języka</string>
-  <string name="content_description_miui_version">MIUI 10</string>
+  <string name="content_description_miui_version">MIUI 11</string>
   <string name="content_description_start">Rozpocznij</string>
   <string name="continue_to_enable_accessibility">Przesuń w dół dwoma palcami, aby uruchomić ułatwienia dostępu.</string>
   <string name="desc_extra_fingerprint"/>
@@ -135,7 +135,7 @@ Musisz zgodzić się z Polityką prywatności Kika przed użyciem tej funkcji."<
   <string name="terms_privacy_policy_input_method_kika">Polityka prywatności Kika</string>
   <string name="title_fingerprint">Ustaw blokadę</string>
   <string name="two_dimensional_code_scan">Skanuj kod QR</string>
-  <string name="user_agreement">Regulamin Usługi</string>
+  <string name="user_agreement">Warunki użytkowania</string>
   <string name="voice_assist_advice">Mi AI pozwala używać kontrolować telefon za pomocą głosu, ale zużywa więcej energii (+1% na godzinę).</string>
   <string name="voice_assist_condition">"Możesz używać Mi AI, gdy:
 1. ekran jest włączony,

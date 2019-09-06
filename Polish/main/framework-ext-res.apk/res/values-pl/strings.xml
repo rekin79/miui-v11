@@ -63,6 +63,7 @@
   <string name="file_cannot_screen_throw">"Nie można wykonać projekcji tego elementu."</string>
   <string name="file_sending">Wysyłanie plików…</string>
   <string name="first_back_long_press_message">Aby zmienić zachowanie przytrzymania przycisków nawigacji przejdź do Ustawienia &gt; Dodatkowe ustawienia &gt; Przyciski</string>
+  <string name="flip_screen_camera_tip">Odwróć urządzenie, aby użyć aparatu</string>
   <string name="fm_record_smaple_prefix_miui">Nagrywanie FM</string>
   <string name="force_exit_message">Pomyślnie zatrzymano \"%1$s\"</string>
   <string name="force_exit_skip_message">%1$s jest komponentem systemowym i nie może być zamknięty</string>

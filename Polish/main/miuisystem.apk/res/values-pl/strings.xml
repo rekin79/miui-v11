@@ -149,6 +149,8 @@
   <string name="messagesent">Wysłano wiadomość</string>
   <string name="mi">Mi</string>
   <string name="miglass">Mi (Szklany)</string>
+  <string name="mihouse">Mi (Elektroniczny)</string>
+  <string name="mijazz">Mi (Jazz)</string>
   <string name="miremix">Mi (Remix)</string>
   <string name="miui_device_name">Android</string>
   <string name="mix">MIX</string>
@@ -218,6 +220,7 @@
   <string name="vip_sign">Podpis:</string>
   <string name="waterdrop_preview">Dźwięk natury 1</string>
   <string name="white_dews">白露</string>
+  <string name="windchime">Wietrzne dzwonki</string>
   <string name="winter_begins">立冬</string>
   <string name="winter_solstice">冬至</string>
   <string name="yellow_page_module_sms_sent">Wysłano wiadomość</string>
