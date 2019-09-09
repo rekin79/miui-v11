@@ -71,6 +71,8 @@
   <string name="btn_text_quick_cleanup_video">Usuń wybrane wideo %1$s</string>
   <string name="btn_text_quick_scan">Skanuj</string>
   <string name="btn_text_stop">Zatrzymaj</string>
+  <string name="button_agree">Zgadzam się</string>
+  <string name="button_deny">"Nie zgadzam się"</string>
   <string name="button_optimizer">OK</string>
   <string name="button_text_add_to_white_list">+Wyjątek</string>
   <string name="button_text_backup_uninstall">Kopiuj</string>
@@ -475,8 +477,8 @@
   <string name="summary_delete_cache">Usunąć pamięć podręczną wybranych aplikacji?</string>
   <string name="summary_delete_large_file">Usunąć zaznaczone pliki?</string>
   <string name="summary_delete_video">Usunąć zaznaczone pliki wideo?</string>
-  <string name="summary_optimizer">"Ta funkcja wysyła nazwy katalogów do bazy online i wymaga ID Twojego urządzenia."</string>
-  <string name="text_optimizer">Użyj moduł Czyszczenie</string>
+  <string name="summary_optimizer">"Ta funkcja, aby móc aktualizować definicje chmury, musi przesłać nazwy plików z danymi na serwery Clean Master. Czy zgadzasz się na to?"</string>
+  <string name="text_optimizer">Użyj modułu Czyszczenie</string>
   <string name="there_is_no">Wszystko ok!</string>
   <string name="tips_low_storage_dialog_cancel">Cancel</string>
   <string name="tips_low_storage_dialog_msg_qq">QQ cache size has reached 3GB. This might slow down your device. Clear QQ cache now?</string>

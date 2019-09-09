@@ -3701,6 +3701,7 @@ Tej czynności nie można cofnąć"</string>
   <string name="model_info">Model</string>
   <string name="model_name">Model</string>
   <string name="model_number">Model urządzenia</string>
+  <string name="modify_default_browser_message">Jeśli ustawisz aplikację firmy trzeciej jako swoją domyślną przeglądarkę, może ona zacząć gromadzić Twoją historię wyszukiwania oraz inne dane. Ustawić mimo to?</string>
   <string name="modify_instruction_password_settings">Ustaw hasło</string>
   <string name="modify_privacy_password">Zmień hasło</string>
   <string name="more_account_settings_title">Inne konta</string>

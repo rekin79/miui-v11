@@ -236,6 +236,7 @@ Wizytówki kontaktów wyłączone"</string>
   <string name="contact_detail_miprofile_save_success_toast">Otrzymano wizytówkę</string>
   <string name="contact_detail_miprofile_settings_header">DODATKOWE USTAWIENIA</string>
   <string name="contact_detail_miprofile_subtitle">Wizytówki zostały już wymienione</string>
+  <string name="contact_detail_more_calllog">Więcej</string>
   <string name="contact_detail_profile_switch_fail_network_toast">Nie można połączyć z siecią</string>
   <string name="contact_detail_profile_switch_fail_toast">Ups... Coś poszło nie tak z naszym serwerem.</string>
   <string name="contact_detail_profile_switch_off">Wyłącz wizytówki kontaktów</string>

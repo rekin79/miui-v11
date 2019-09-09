@@ -108,6 +108,7 @@
   <string name="app_name">Galeria</string>
   <string name="app_name_view_picture">Pokaż zdjęcia</string>
   <string name="app_name_view_video">Pokaż filmy</string>
+  <string name="app_summary">Zarządzanie i edytowanie zdjęć i wideo na urządzeniu oraz w Chmurze Xiaomi</string>
   <string name="application_icon">Ikona aplikacji</string>
   <string name="apply">Zastosuj</string>
   <string name="assistant_page_discovery">Odkrywaj</string>
@@ -979,13 +980,13 @@
   <string name="people_mark_mode_title_no_mark_name">Wybierz osobę</string>
   <string name="people_page_label">Osoby</string>
   <string name="people_page_unname">Bez nazwy</string>
-  <string name="permissin_contract_desc">Nazywanie osób na zdjęciu</string>
-  <string name="permission_contract_name">Kontakty</string>
+  <string name="permission_contacts_desc">Nazywanie osób na zdjęciu</string>
+  <string name="permission_contacts_name">Kontakty</string>
   <string name="permission_optional_category">Opcjonalne uprawnienia</string>
-  <string name="permission_phone_desc">Żądania sieciowe oparte na ID urządzenia</string>
+  <string name="permission_phone_desc">Przypisywanie odpowiednich urządzeń do ostatnio usuniętych elementów w Chmurze Xiaomi</string>
   <string name="permission_phone_name">Telefon</string>
   <string name="permission_require_category">Wymagane uprawnienia</string>
-  <string name="permission_storage_desc">Wyświetlanie, edycja i zapis zdjęć</string>
+  <string name="permission_storage_desc">Wyświetlanie, edycja, pobieranie, synchronizacja i zapis zdjęć</string>
   <string name="permission_storage_name">Pamięć</string>
   <string name="permission_use_desc">Uprawnienia</string>
   <string name="pet_album_display_name">Zwierzęta</string>

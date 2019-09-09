@@ -64,6 +64,8 @@ Później będziesz mógł zainstalować inne klawiatury z Google Play."</string
   <string name="next">Dalej</string>
   <string name="next_fingerprint">Dalej</string>
   <string name="other_settings">Inne ustawienia</string>
+  <string name="other_settings_ad_dialog_content">"W Xiaomi.eu ta opcja nie ma znaczenia, więc... jak chcesz."</string>
+  <string name="other_settings_ad_disable_summary">Reklamy</string>
   <string name="other_settings_ad_enable">Reklamy</string>
   <string name="other_settings_ad_enable_summary">W tym systemie reklamy od Xiaomi są wyłączone. Opcja nie ma zastosowania.</string>
   <string name="other_settings_auto_update">Automatyczne aktualizacje</string>
@@ -71,7 +73,7 @@ Później będziesz mógł zainstalować inne klawiatury z Google Play."</string
   <string name="other_settings_enhanced_lockscreen">Tapety ekranu blokady</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">Polityka prywatności</string>
   <string name="other_settings_enhanced_lockscreen_summary">Codziennie na ekranie blokady będą się pojawiać nowe tapety online</string>
-  <string name="other_settings_enhanced_lockscreen_summary_index">Zgoda użytkownika końcowego Glance</string>
+  <string name="other_settings_enhanced_lockscreen_summary_index">Zgoda użytkownika końcowego</string>
   <string name="other_settings_location">Lokalizacja</string>
   <string name="other_settings_location_summary">Zezwól na dostęp aplikacji do lokalizacji</string>
   <string name="other_settings_mifg_online_content">Dzienne tapety blokady</string>

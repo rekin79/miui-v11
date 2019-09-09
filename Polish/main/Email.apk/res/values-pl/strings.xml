@@ -8,6 +8,7 @@
   <string name="account_duplicate_dlg_title">Zduplikowane konto</string>
   <string name="account_failure">Sesja wygasła</string>
   <string name="account_name_toast">Konto o tej samej nazwie już istnieje</string>
+  <string name="account_options_actionbar_title">Ustawienia ogólne</string>
   <string name="account_options_sync_title">Synchronizacja</string>
   <string name="account_password_spaces_error">Hasło zaczyna się lub kończy co najmniej jedną spacją. Wiele serwerów nie obsługuje haseł ze spacjami.</string>
   <string name="account_security_dialog_content_fmt">%s wymaga aktualizacji ustawień zabezpieczeń</string>
@@ -536,6 +537,9 @@ dla:
   <string name="mail_description_title">O aplikacji</string>
   <string name="mail_header_network_not_available">Brak połączenia z siecią.</string>
   <string name="mail_login_help">Pomoc z logowaniem</string>
+  <string name="mail_outlook_login_tips">Zgodnie z wymaganiami firmy Microsoft musisz wprowadzić hasło na stronie autoryzacji tej firmy.</string>
+  <string name="mail_outlook_oauth_login">Zaloguj się za pomocą OAuth</string>
+  <string name="mail_outlook_psw_login">Zaloguj się hasłem</string>
   <string name="mail_search_lab">pasek wyszukiwania</string>
   <string name="mailbox_list_account_selector_combined_view">Widok łączony</string>
   <string name="mailbox_name_display_ad">Reklamy</string>
@@ -723,6 +727,7 @@ limit skrzynki odbiorczej"</string>
   <string name="outbox_alert_select_operation">Co zrobić z wiadomością?</string>
   <string name="outbox_alert_title_sent_failed">Wysyłanie wiadomości nieudane</string>
   <string name="outbox_no_mails">Brak wiadomości</string>
+  <string name="outlook_login_failed_non_proxy_title">"Nie udało się uzyskać dostępu do serwera Outlook"</string>
   <string name="parase_setup_data">Pobieranie informacji…</string>
   <string name="password_expire_warning_content_title">Hasło ekranu blokady wkrótce wygaśnie</string>
   <string name="password_expire_warning_dialog_content_fmt">Musisz wkrótce zmienić PIN lub hasło ekranu blokady. W przeciwnym razie dane konta %s zostaną usunięte. Zmienić je teraz?</string>
@@ -830,6 +835,7 @@ limit skrzynki odbiorczej"</string>
   <string name="quick_3">Przeczytam to później i skontaktuję się.</string>
   <string name="quick_4">Spotkajmy się, aby to omówić.</string>
   <string name="quick_reply_dialog_title">Wybierz szybką odpowiedź</string>
+  <string name="quick_reply_expend">Rozwiń</string>
   <string name="quick_reply_hint">Odpowiedz do %1$d osób</string>
   <string name="quick_reply_hint_bcc">(w UDW)</string>
   <string name="quick_reply_hint_cc">(w DW/UDW)</string>
@@ -949,6 +955,9 @@ Brak połączenia z siecią."</string>
   <string name="str_select_none">Odznacz wsz.</string>
   <string name="subject_and_snippet" formatted="false">%s – %s</string>
   <string name="subject_hint">"Temat: "</string>
+  <string name="sync_calendra_fail_per_content">Dotknij, aby udzielić dostępu do kalendarza</string>
+  <string name="sync_calendra_fail_per_title">"Nie udało się zsynchronizować kalendarza"</string>
+  <string name="sync_calendra_fail_permission">"Nie udało się zsynchronizować kalendarza. Zezwól Poczcie na dostęp do kalendarza w Ustawieniach."</string>
   <string name="sync_error">"Błąd synchronizacji."</string>
   <string name="sync_error_message">W Twoim urządzeniu jest za mało miejsca na przeprowadzenie synchronizacji.</string>
   <string name="sync_failed_mi_authority_view_detail">Zobacz szczegóły</string>

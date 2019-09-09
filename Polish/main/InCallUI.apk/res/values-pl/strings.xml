@@ -152,6 +152,8 @@
   <string name="incoming_circle_text_message_p">Przesuń w górę</string>
   <string name="incoming_circle_text_reject">Puść</string>
   <string name="incoming_circle_text_reject_p">Przesuń w górę</string>
+  <string name="incoming_circle_text_video_answer">Puść, aby odpowiedzieć (wideo)</string>
+  <string name="incoming_circle_text_video_answer_p">Przesuń w górę, aby odpowiedzieć (wideo)</string>
   <string name="ivr_menu_dialing_msg">Forwarding…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Go to the selected service…[Automatic error correction is enabled]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Press %s</string>
@@ -177,6 +179,7 @@
   <string name="livetalk_left_minute">%s min left</string>
   <string name="livetalk_provider_info">Provided by %s</string>
   <string name="manageConferenceLabel">Zarządzaj połączeniem konferencyjnym</string>
+  <string name="manager_conference_done">Gotowe</string>
   <string name="modify_call_failure_str">"Modify Call request failed
   "</string>
   <string name="modify_call_option_title">Typ połączenia?</string>

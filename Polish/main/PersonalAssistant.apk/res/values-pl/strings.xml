@@ -161,7 +161,7 @@
   <string name="cta_dialog_content">Usługa wymaga połączenia z internetem i dostępu do usługi lokalizacyjnej. Wyrażasz zgodę?</string>
   <string name="cta_dialog_negative">Wyjdź</string>
   <string name="cta_dialog_positive">Zgadzam się</string>
-  <string name="cta_dialog_text_new_user">"Przed użyciem Asystenta MIUI musisz zgodzić się na warunki %1$s\"Umowy użytkownika\"%2$s oraz %3$s\"Polityki prywatności\"%4$s Xiaomi, a także %5$s\"Politykę prywatności Asystenta MIUI\"%6$s. Aplikacja wymaga połączenia z Internetem oraz dostępu do Twojej lokalizacji w celu poprawnego działania. Kliknij \"Start\", aby zaakceptować."</string>
+  <string name="cta_dialog_text_new_user">Przeczytaj i zgódź się na warunki %1$sUmowy użytkownika%2$s oraz %3$sPolityki prywatności%4$s Xiaomi.</string>
   <string name="cta_dialog_text_old_user">Przed użyciem Asystenta MIUI musisz zgodzić się na warunki %1$s\"Polityki prywatności\"%2$s. Kliknij \"Start\", aby to zrobić.</string>
   <string name="cta_dialog_text1">"Aby skorzystać z Asystenta, zapoznaj się z: "</string>
   <string name="cta_dialog_text2">\"Umowa Użytkownika\"</string>

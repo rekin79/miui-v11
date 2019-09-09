@@ -122,7 +122,7 @@
   <string name="feedback_detail_upload_log">Wyślij logi</string>
   <string name="feedback_detail_waiting">Generowanie…</string>
   <string name="feedback_empty_report_list">Brak zgłoszeń</string>
-  <string name="feedback_guess">Nasz strzał</string>
+  <string name="feedback_guess">Nasz strzał:</string>
   <string name="feedback_history_remind_login_desc">Zaloguj się za pomocą konta Xiaomi, aby zobaczyć szczegóły i postęp zgłoszenia</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">Klucz JIRA: %s</string>
