@@ -2414,7 +2414,7 @@ Więcej informacji uzyskasz od administratora organizacji."</string>
   <string name="feature_title_mms_setting">Ustawienia MMS</string>
   <string name="feature_title_xspace">Klonowane aplikacje</string>
   <string name="feedback">Opinia</string>
-  <string name="feedback_settings">Opinie</string>
+  <string name="feedback_settings">Usługi i opinie</string>
   <string name="file_privacy_password_role_instruction">Prywatne pliki zostaną tutaj zachowane.</string>
   <string name="filter">Filtr</string>
   <string name="filter_all_apps">Wszystkie aplikacje</string>
@@ -4899,7 +4899,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego urządzenia."</string>
 	 <string name="screen_dark_mode_smart_dark_summary">Zastosuj ciemny motyw także do aplikacji firm trzecich. Część z nich może wyświetlać się nieprawidłowo.</string>
  	<string name="screen_dark_mode_smart_dark_title">Globalny ciemny motyw</string>
 	 <string name="screen_dark_mode_time_title">Zaplanuj</string>
-  <string name="screen_effect">Kontrast i kolory</string>
+  <string name="screen_effect">Schemat kolorów</string>
   <string name="screen_key_long_press">Przytrzymanie przycisków nawigacyjnych</string>
   <string name="screen_key_long_press_action">Akcja dla przytrzymania</string>
   <string name="screen_key_long_press_timeout">Czas przytrzymania</string>
@@ -4922,7 +4922,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego urządzenia."</string>
   <string name="screen_never_timeout_title">Nie usypiaj</string>
   <string name="screen_on_proximity_sensor_summary">Blokuj ekran gdy urządzenie jest w kieszeni</string>
   <string name="screen_on_proximity_sensor_title">Przypadkowe użycie</string>
-  <string name="screen_optimize">Kontrast</string>
+  <string name="screen_optimize">Kolory</string>
   <string name="screen_optimize_disabled">Nie można zmienić kontrastu, gdy włączone jest Wspomaganie czytania</string>
   <string name="screen_paper_mode_adjust_level">Intensywność</string>
   <string name="screen_paper_mode_apps_loading">Wczytywanie…</string>
