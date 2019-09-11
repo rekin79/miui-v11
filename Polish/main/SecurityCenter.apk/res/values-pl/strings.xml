@@ -2565,6 +2565,7 @@ W trakcie kalibracji, MIUI wyśle wiadomość tekstową do Twojego operatora, ab
   <string name="superpower_dialog_button_ok">OK</string>
   <string name="superpower_dialog_massage">"Ultraoszczędzanie baterii ogranicza większość energożernych funkcji i obniża wydajność urządzenia w celu zachowania działania podstawowych funkcji (np. połączeń, SMS-ów czy wybranych aplikacji) tak długo, jak to możliwe. Włączyć ten tryb?"</string>
   <string name="superpower_dialog_title">Ultraoszczędzanie baterii</string>
+  <string name="superpower_notification_new_title">Pozostało mniej niż %d%% baterii</string>
   <string name="superpower_notification_summary">Włącz Ultraoszczędzanie baterii</string>
   <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
   <string name="superpower_notification_time_24">EEEE, dd MMMM</string>

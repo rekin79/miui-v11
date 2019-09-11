@@ -7129,6 +7129,10 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="wifi_frequency">Częstotliwość</string>
   <string name="wifi_gateway">Brama</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
+  <string name="wifi_generation_title">Technologia</string>
+  <string name="wifi_generation_icon_display">Ikony</string>
+  <string name="wifi_generation">Użyj ikon generacji Wi-Fi</string>
+  <string name="wifi_generation_summary">Dodaj numer generacji sieci do ikony Wi-Fi</string>
   <string name="wifi_hide_password">Ukryj hasło</string>
   <string name="wifi_hotspot_checkbox_text">Hotspot Wi‑Fi</string>
   <string name="wifi_hotspot_checkbox_text_summary">Udostępniaj połączenie komórkowe przez Wi‑Fi</string>
