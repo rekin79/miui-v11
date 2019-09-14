@@ -350,7 +350,7 @@
   <string name="message_failed">Niepowodzenie</string>
   <string name="message_failed_body">Wyświetl wiadomość i spróbuj ponownie</string>
   <string name="message_number">Numer telefonu:</string>
-  <string name="message_pending">Oczekujące</string>
+  <string name="message_pending">Oczekuje</string>
   <string name="message_queued">"Nie można w tej chwili wysłać wiadomości. Zostanie ona wysłana, gdy usługa będzie dostępna."</string>
   <string name="message_queued_second_space">"Nie można w tej chwili wysłać wiadomości. Zostanie ona wysłana, gdy usługa będzie dostępna."</string>
   <string name="message_readed">Przeczytane</string>
