@@ -1471,6 +1471,11 @@ Spróbuj tego:"</string>
   <string name="sync_and_backup_bookmark">Synchronizuj zakładki</string>
   <string name="sync_and_backup_history">Synchronizuj historię</string>
   <string name="sync_cloud_tabs">Synchr.</string>
+  <string name="system_permission_accounts_purpose">Logowanie się i zarządzanie kontami w systemie</string>
+  <string name="system_permission_main_purpose">Przeglądanie sieci, wyszukiwanie informacji, czytanie wiadomości, oglądanie wideo itd.</string>
+  <string name="system_permission_phone_state_purpose">Odczyt numeru IMEI w celu dostarczania odpowiednich usług</string>
+  <string name="system_permission_storage_purpose">Odczyt i zapis plików na urządzeniu oraz możliwość ich pobierania bądź wysyłania</string>
+  <string name="system_permission_user_agreement_url">http://www.miui.com/res/doc/eula/pl.html</string>
   <string name="tab_hotpage">Trendy</string>
   <string name="tab_quicklinks">Domowa</string>
   <string name="tab_yellowpage">Polecane</string>
