@@ -178,6 +178,7 @@
   <string name="chinese_male">Wykonawca [męski] (Chiny)</string>
   <string name="choose_download_quality">Wybierz jakość</string>
   <string name="choose_language">Wybierz język</string>
+  <string name="choose_music_lang_pref">Preferowane języki utworów</string>
   <string name="choose_stream_quality">Preferowana jakość pobierania</string>
   <string name="click_modify">Dotknij by zmienić teksty</string>
   <string name="click_to_shuffle">Dotknij, aby losować</string>
@@ -1069,6 +1070,7 @@
   <string name="tab_local_folder_list">Pamięć</string>
   <string name="tab_local_track_list">Utwory</string>
   <string name="tab_playlist">Playlisty</string>
+  <string name="tab_top_results">Najlepsze rezultaty</string>
   <string name="tab_track">Utwory</string>
   <string name="tab_track_list">Utwory</string>
   <string name="tab_video">Teledyski</string>
@@ -1116,6 +1118,7 @@
   <string name="toast_my_playlist_illegal_name">"Tytuł playlisty jest niepoprawny. Zmień nazwę."</string>
   <string name="toast_my_playlist_set_to_private">"Ta playlista jest obecnie prywatna. Inne osoby nie mogą jej zobaczyć."</string>
   <string name="toast_my_playlist_set_to_public">Ta playlista jest obecnie publiczna. Inne osoby mogą ją zobaczyć.</string>
+  <string name="toast_my_playlist_sync_failed">"Nie udało się zsynchronizować playlist z powodu błędu sieci."</string>
   <string name="toast_new_playlist_name_no_enter">Nie można rozpocząć nowego akapitu</string>
   <string name="toast_new_playlist_name_too_long">Nazwa listy odtwarzania jest za długa</string>
   <string name="toast_normal_songs_for_download">Jakość pobieranych utworów ustawiona na Standardową</string>
