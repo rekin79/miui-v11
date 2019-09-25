@@ -64,7 +64,7 @@
   <string name="cancel_call">Rozłącz</string>
   <string name="card_title_answering">Odbieranie</string>
   <string name="card_title_answering_time_out">"Nie można odebrać. Spróbuj ponownie."</string>
-  <string name="card_title_call_ended">"Połączenie zakończone "</string>
+  <string name="card_title_call_ended">"Zakończone "</string>
   <string name="card_title_conf_call">Konferencyjne</string>
   <string name="card_title_dialing">Wybieranie</string>
   <string name="card_title_hanging_up">"Trwa rozłączanie "</string>

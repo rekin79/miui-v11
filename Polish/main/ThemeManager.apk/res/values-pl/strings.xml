@@ -112,6 +112,7 @@ Aplikacja Motywy będzie wykrywać, jakich aplikacji używasz, i na tej podstawi
   <string name="component_title_wallpaper">Tapety</string>
   <string name="concentration_old_period">Więcej</string>
   <string name="count_down_tip">Pozostało %ds</string>
+  <string name="current_using">Obecny</string>
   <string name="current_using_desktop_wallpaper_text">Pulpit</string>
   <string name="current_using_float_wallpaper_text">Przezroczysta</string>
   <string name="current_using_lockscreen_wallpaper_text">Ekran blokady</string>
@@ -253,7 +254,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="incall_show_remove_dialog_message">"Już ustawiłeś wideo dla połączeń wychodzących. Usunąć je teraz?"</string>
   <string name="incall_show_remove_success">Pomyślnie usunięto</string>
   <string name="incompatible_dialog_cancel">"Nie ustawiaj"</string>
-  <string name="incompatible_dialog_message">Ten motyw nie jest w pełni kompatybilny z MIUI 10. Niektóre elementy mogą nie wyświetlać się poprawnie.</string>
+  <string name="incompatible_dialog_message">Ten motyw nie jest jeszcze w pełni kompatybilny z MIUI 11. Niektóre elementy mogą być wyświetlane niepoprawnie.</string>
   <string name="incompatible_dialog_ok">OK</string>
   <string name="incompatible_dialog_title">Problem z kompatybilnością</string>
   <string name="is_setting_wallpaper_message">Ustawianie tapety…</string>
@@ -361,6 +362,8 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="purchased_list_current">Dopasowane motywy</string>
   <string name="purchased_list_legacy">Starsze motywy</string>
   <string name="recently_used">Ostatnie</string>
+  <string name="recommend_trigger">Spersonalizowane propozycje</string>
+  <string name="recommend_trigger_summary">Włącz, aby otrzymywać propozycje oparte na Twoich preferencjach</string>
   <string name="reenable_accessibility">Wystąpił błąd. Nadaj uprawnienia ułatwień dostępu jeszcze raz.</string>
   <string name="refresh_footer_all_loaded">"To tyle."</string>
   <string name="refresh_footer_failed">"Nie można pobrać informacji"</string>
@@ -733,7 +736,8 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="transparency_pref_summary">Wybierz, jak bardzo tapeta ma być przezroczysta</string>
   <string name="transparency_pref_title">Poziom przezroczystości</string>
   <string name="transparent_wallpaper">Przezroczysta tapeta</string>
-  <string name="transparent_wallpaper_apply_success">Pomyślnie zastosowano tapetę. Więcej nowych funkcji możesz znaleźć w Motywach > Profil > Funkcje w fazie testów.</string>
+  <string name="transparent_wallpaper_apply_success">"Pomyślnie zastosowano tapetę. 
+Więcej nowych funkcji możesz znaleźć w Motywach > Profil > Funkcje w fazie testów."</string>
   <string name="transparent_wallpaper_auto_start_pref_summary">Ustaw przezroczystą tapetę po restarcie urządzenia</string>
   <string name="transparent_wallpaper_auto_start_pref_title">Autostart</string>
   <string name="transparent_wallpaper_disable">Wył.</string>
@@ -768,6 +772,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="update_checking">Sprawdzanie aktualizacji…</string>
   <string name="update_downloading">Pobieranie aktualizacji…</string>
   <string name="update_fail">"Couldn't get info. Try again."</string>
+  <string name="update_flag">Aktualizacja</string>
   <string name="update_immediately">Zaktualizuj teraz</string>
   <string name="update_latest">Your app is up to date</string>
   <string name="update_no_net">A network error occurred. Try again.</string>

@@ -24,8 +24,12 @@
   <string name="accessibility_shutter_button">Migawka</string>
   <string name="action_search">Wyszukaj</string>
   <string name="address">"Adres: "</string>
+  <string name="agree_app_use">Skanowanie kodów QR i ich rozpoznawanie na innych obrazach</string>
   <string name="agree_btn">Zezwól</string>
+  <string name="agree_camera_permission">W celu wykonywania zdjęć i nagrywania filmów</string>
+  <string name="agree_storage_permission">W celu dostępu do zdjęć i plików na urządzeniu</string>
   <string name="allow_check_website_security">Pokaż powiadomienia o bezpieczeństwie witryn</string>
+  <string name="always">Zawsze</string>
   <string name="amazon_assistant_shopping_title">Wyszukaj na Amazonie</string> 
   <string name="app_description_content">Masz zamiar usunąć tę aplikację. Upewnij się, że nie będziesz już potrzebował jej funkcjonalności.</string>
   <string name="app_description_title">O aplikacji</string>
@@ -46,6 +50,7 @@
   <string name="camera_error_title">Błąd aparatu</string>
   <string name="cancel">Anuluj</string>
   <string name="character_counter_content_description">Limit znaków przekroczył %1$d z %2$d</string>
+  <string name="choose_open_code_app">Wybierz aplikację</string>
   <string name="choose_pay_title">Wybierz metodę płatności</string>
   <string name="choose_picture">Wybierz obrazek z QR</string>
   <string name="close_hotspot_when_connecting_to_wifi">Włączony jest hotspot. Włącz Wi-Fi.</string>
@@ -170,6 +175,7 @@
   <string name="not_recommend_access_web_url">Przejdź mimo to</string>
   <string name="not_tips">"Nie pokazuj ponownie"</string>
   <string name="note">"Notatka: "</string>
+  <string name="once">Tylko raz</string>
   <string name="open_url">Otwórz URL</string> 
   <string name="password_toggle_content_description">Pokaż hasło</string>
   <string name="path_scanner_setting">Systemowe/Skaner</string>
@@ -228,7 +234,9 @@
   <string name="tel">Telefon</string>	
   <string name="tips_message">Połącz się z internetem, aby sprawdzić czy strona, którą chcesz odwiedzić jest bezpieczna.</string>
   <string name="title">Tytuł:</string>
+  <string name="to_install_title">Ten kod QR przekierowuje do odinstalowanej aplikacji. Pobrać tą aplikację teraz?</string>
   <string name="to_pay">Ukończ płatność</string>
+  <string name="toinstall">Pobierz</string>
   <string name="translate_auto_lock">Zablokuj tłumaczenie</string>
   <string name="translate_auto_unlock">Odblokuj tłumaczenie</string>
   <string name="translate_copy_success">Pomyślnie skopiowano</string>

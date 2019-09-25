@@ -269,6 +269,7 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">Maksymalny czas nagrania dla %1$s to %2$s</string>
   <string name="toast_uninstall_fileexplorer">Brak menedżera plików (Pliki)!</string>
+  <string name="usage_description">Transkrypcja audio i synchronizacja elementów z chmurą</string>
   <string name="webview_check_network">Ustawienia sieci</string>
   <string name="webview_data_error">Wystąpił błąd</string>
   <string name="webview_locating_fail">Nie udało się ustalić Twojej lokalizacji</string>
