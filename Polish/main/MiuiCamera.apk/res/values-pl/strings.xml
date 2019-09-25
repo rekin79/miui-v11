@@ -63,6 +63,8 @@
   <string name="accessibility_intent_done_retry">Zrób ponownie</string>
   <string name="accessibility_lighting_panel_on">Pasek oświetlenia studyjnego widoczny</string>
   <string name="accessibility_lighting_panel_off">Panel oświetlenia studyjnego ukryty</string>
+  <string name="accessibility_mimovie_off">Tryb filmowy jest wyłączony</string>
+  <string name="accessibility_mimovie_on">Tryb filmowy jest włączony</string>
   <string name="accessibility_mode_dismiss_button">Zamknięcie menu wyboru trybu</string>
   <string name="accessibility_more">Więcej</string>
   <string name="accessibility_open">Włączone</string>
@@ -173,6 +175,7 @@
   <string name="close_front_flash_toast">"Twoje urządzenie jest przegrzane. Nie można użyć lampy błyskowej."</string>
   <string name="color_effect_entry_berry">Jagody</string>
   <string name="color_effect_entry_blackwhite">BW</string>
+  <string name="color_effect_entry_classic">Klasycznie</string>
   <string name="color_effect_entry_cookie">Ciastka</string>
   <string name="color_effect_entry_delicacy">Smaczny</string>
   <string name="color_effect_entry_fade">Szare BW</string>
@@ -196,6 +199,7 @@
   <string name="config_name_group">Grupowe selfie</string>
   <string name="config_name_hht">Nocny</string>
   <string name="config_name_magic">Magia</string>
+  <string name="config_name_mimovie">Tryb filmowy</string>
   <string name="config_name_ratio">Proporcje</string>
   <string name="config_name_scene">Scena</string>
   <string name="config_name_setting">Opcje</string>
@@ -212,6 +216,7 @@
   <string name="confirm_recording_fail_calling_alert">Nie można rozpocząć nagrywania wideo podczas rozmowy</string>
   <string name="confirm_recording_fail_recorder_busy_alert">Inne aplikacje mogą w tym momencie rejestrować dźwięk</string>
   <string name="confirm_recording_fail_title">Nagrywanie nieudane</string>
+  <string name="confirm_reset_manually_parameter_message">Zresetować wszystkie parametry do ich domyślnych wartości?</string>
   <string name="confirm_restore_message">Przywrócić domyślne ustawienia aparatu?</string>
   <string name="confirm_restore_title">Przywróć domyślne</string>
   <string name="contact_result_text">Edytuj kontakt</string>
@@ -337,6 +342,7 @@ Kliknij i przytrzymaj, aby zobaczyć więcej opcji"</string>
   <string name="hint_fast_motion">Nagrany film będzie odtwarzany szybciej</string>
   <string name="hint_groupshot">"Aparat wykona kilka zdjęć, aby utworzyć jedno gdzie wszyscy wyglądają najlepiej."</string>
   <string name="hint_groupshot_beauty">"Upiększanie nie może być użyte w trybie grupowego selfie"</string>
+  <string name="hint_mimovie">Dla lepszego efektu wykonuj ujęcie poziomo</string>
   <string name="hint_person_name">Imię</string>
   <string name="hint_phone">Numer telefonu</string>
   <string name="hint_slow_motion">Nagrany film będzie odtwarzany wolniej</string>
@@ -952,6 +958,7 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="qr_wifi_successfully_connecting">Łączenie z %s…</string>
   <string name="recommend_soft_light_tip">Użyj flesza w trybie miękkiego światła</string>
   <string name="record_back_pressed_hint">Naciśnij ponownie, aby zatrzymać nagrywanie</string>
+  <string name="reset_manually_parameter_hint">Zresetuj</string>
   <string name="save">Zapisz</string>
   <string name="screen_on_proximity_sensor_hint">Naciśnij Głośność+ i Wstecz, aby wyłączyć funkcję</string>
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Naciśnij Głośność+, aby wyłączyć funkcję</string>

@@ -1081,6 +1081,7 @@ Spróbuj tego:"</string>
   <string name="next_button_label">Dalej</string>
   <string name="no_app_open_document">Brak aplikacji w celu zakończenia akcji</string>
   <string name="no_matches">Brak wyników</string>
+  <string name="no_memory_space">brak miejsca</string>
   <string name="no_space_alert_cancel">Później</string>
   <string name="no_space_alert_clean">Zwolnij miejsce</string>
   <string name="no_space_alert_text">Brak miejsca w pamięci urządzenia</string>
@@ -1612,6 +1613,7 @@ Spróbuj tego:"</string>
   <string name="webpage_bookmark_title">Zakładki</string>
   <string name="webpage_history_title">Historia</string>
   <string name="webpage_title">Zakładki i historia</string>
+  <string name="wechat_not_installed">Nie zainstalowano aplikacji WeChat</string>
   <string name="webview_find_on_page">Znajdź na stronie</string>
   <string name="webviewchromium_private_browsing_warning">Funkcja nie jest wspierana przez tę wersję systemu Andrioid.</string>
   <string name="week_picker_dialog_title">Wybierz tydzień</string>

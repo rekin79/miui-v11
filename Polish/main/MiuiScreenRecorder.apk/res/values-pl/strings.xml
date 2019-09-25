@@ -60,6 +60,7 @@
   <string name="quit_recording">Zakończono nagrywanie ekranu</string>
   <string name="permission_intro_microphone">Nagrywanie dźwięku, gdy źródło dźwięku to mikrofon</string>
   <string name="permission_intro_storage">Zapisywanie nagrań ekranu</string>
+  <string name="permission_microphone_desc">Używanie mikrofonu jako źródło dźwięku w nagraniach ekranu</string>
   <string name="recording_failure">Ostatnie nagrywanie ekranu nieudane. Uruchom ponownie aplikację.</string>
   <string name="recording_max_size">Nagrywanie zostało zatrzymane po osiągnięciu maksymalnego rozmiaru. Możesz rozpocząć nowe nagranie.</string>
   <string name="recording_without_mic">Mikrofon jest zajęty i nie może być użyty do tego nagrywania</string>
@@ -71,6 +72,8 @@
   <string name="screen_record_params">Parametry nagrywania</string>
   <string name="select_all">Wybierz wszystko</string>
   <string name="settings">Ustawienia</string>
+  <string name="settings_other">Inne</string>
+  <string name="settings_privacy">Polityka prywatności</string>
   <string name="show_hard_key">Pokaż przyciski nawigacyjne</string>
   <string name="show_hard_key_summary">Pokaż dymki z nazwami przycisków pod ekranem</string>
   <string name="show_screen_touch">Pokaż dotknięcia</string>

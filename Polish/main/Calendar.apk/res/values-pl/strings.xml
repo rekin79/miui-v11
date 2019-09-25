@@ -393,6 +393,10 @@
   <string name="panchang_yog">Yog</string>
   <string name="passenger">Pasażer</string>
   <string name="path_calendar_settings">Ustawienia/Systemowe/Kalendarz</string>
+  <string name="permission_accounts">Logowanie się i zarządzanie kontami systemu oraz powiązywanie z nimi elementów</string>
+  <string name="permission_contacts">Synchronizacja urodzin Twoich kontaktów i wysyłanie przypomnień</string>
+  <string name="permission_main_purpose">Wyświetlanie i zarządzanie wydarzeniami z kalendarza, otrzymywanie przypomnień, subskrypcja usług, planowanie podróży (niektóre funkcje są tu niedostępne)</string>
+  <string name="permission_storage">Zapisywanie przypomnień i dzwonków</string>
   <string name="phone_num">Telefon</string>
   <string name="prefDialogTitle_vibrateWhen">Wibracje</string>
   <string name="pref_error_no_ringtone_select">Domyślny dzwonek</string>

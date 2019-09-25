@@ -132,6 +132,7 @@
   <string name="callrecordview_menu_delete_sim">Usuń historię połączeń (%s)</string>
   <string name="callrecordview_menu_delete_stranger">Usuń nieznane numery</string>
   <string name="callrecordview_menu_edit_call_note">Edytuj notatkę</string>
+  <string name="callrecordview_menu_identify_numbers">Rozpoznaj numery telefonów</string>
   <string name="callrecordview_menu_ip">Wybieranie IP</string>
   <string name="callrecordview_menu_livetalk">Top-up package</string>
   <string name="callrecordview_menu_misim">Mi SIM</string>
@@ -215,6 +216,7 @@
   <string name="contact_detail_action_item_nocalllog">Brak historii</string>
   <string name="contact_detail_calllog_call_note_tips">Notatka głosowa</string>
   <string name="contact_detail_calllog_call_record_tips">Zapis z rozmowy</string>
+  <string name="contact_detail_calllog_correct_yellow_page">Popraw lub zgłoś</string>
   <string name="contact_detail_calllog_empty">Brak historii</string>
   <string name="contact_detail_entry_pay">Zapłać</string>
   <string name="contact_detail_entry_pay_dialog_title">Wybierz numer telefonu</string>
@@ -1280,6 +1282,7 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="wipe_data">Wyczyść dane</string>
   <string name="yellowPageNavigationIconLabel">Katalogi</string>
   <string name="yellowPageNavigationLabel">Katalogi</string>
+  <string name="yellowpage_address_tag">Adres</string>
   <string name="yellowpage_fc_toast">Nie można użyć tej funkcji ze względu na awarię Książki telefonicznej.</string>
   <string name="yellowpage_navigation_ad_hint">Reklama</string>
   <string name="yellowpage_navigation_balance_refresh_failed">Stan środków i danych nie mógł zostać zweryfikowany, spróbuj później.</string>
@@ -1300,6 +1303,7 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Pobieranie…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Sieć jest niedostępna spróbuj ponownie później</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Umieszczono na Ekranie głównym</string>
+  <string name="yellowpage_provider_label">Dane dostarczane przez</string>
   <string name="yellowpage_search_the_yellowpage">Powrót do listy kontaktów</string>
   <string name="yellowpage_user_profile">Profile</string>
   <string name="yesterday">Wczoraj</string>

@@ -48,6 +48,7 @@
   <string name="character_counter_content_description">Limit znaków przekroczył %1$d z %2$d</string>
   <string name="choose_pay_title">Wybierz metodę płatności</string>
   <string name="choose_picture">Wybierz obrazek z QR</string>
+  <string name="close_hotspot_when_connecting_to_wifi">Włączony jest hotspot. Włącz Wi-Fi.</string>
   <string name="common_retake_picture">Ponów</string>
   <string name="common_retry">Ponów</string>
   <string name="common_save">Zapisz</string>
@@ -208,6 +209,7 @@
   <string name="send_mail">Wyślij e-maila</string>
   <string name="setting_choose_every_time">Zawsze pytaj</string>
   <string name="setting_default_function">Domyślna funkcja</string>
+  <string name="setting_function_sort">Zmień kolejność funkcji</string>
   <string name="setting_preference_pay">Preferowana metoda płatności</string>
   <string name="setting_title">Ustawienia</string>
   <string name="setting_use_last_choose">Zapamiętaj ostatni wybór</string>
@@ -268,7 +270,7 @@
   <string name="web">"WWW: "</string>
   <string name="website_details">"WWW: "</string>
   <string name="weixin_code_tip">Zeskanuj ten kod QR za pomocą WeChata</string>
-  <string name="wifi_exist_fail">Hotspot Wi-Fi \"%1$s\" już istnieje. Usuń go i spróbuj ponownie.</string> 
+  <string name="wifi_exist_fail">Hotspot \"%1$s\" już istnieje. Usuń go i zeskanuj kod ponownie, aby się połączyć.</string> 
   <string name="wifi_details">"Szczegóły sieci Wi-Fi: "</string>
   <string name="wifi_open_fail">"Nie można włączyć Wi-Fi"</string>
   <string name="wifi_psd_toolong">Hasło jest za długie. Wprowadź je ręcznie.</string>

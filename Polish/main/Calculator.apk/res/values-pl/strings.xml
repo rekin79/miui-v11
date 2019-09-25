@@ -196,6 +196,7 @@
     <string name="negDesc">Przełącz między temperaturami poniżej i powyżej zera</string>
     <string name="network_confirm_content">Przelicznik walut, kalkulator podatku oraz zadłużenia wymagają połączenia z internetem oraz dostępu do lokalizacji, do poprawnego działania.</string>
     <string name="network_confirm_title">Wymagane uprawnienia</string>
+    <string name="network_purpose">Witaj w Kalkulatorze! Ta aplikacja pozwala ci na dokonywanie obliczeń, konwersję walut, obliczanie rat kredytu i wiele, wiele więcej.</string>
 	<string name="not_supported_due_to_language">Ta funkcja jest dostępna tylko w języku chińskim</string>
     <string name="percent" />
     <string name="percentDesc">procent</string>

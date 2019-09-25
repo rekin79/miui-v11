@@ -37,6 +37,8 @@
   <string name="check_in_todo_app">Wyświetl notatki</string>
   <string name="cloud_service_state_open_reminder">Wł. synchronizację, aby kopiować notatki</string>
   <string name="cloud_trash_bin_title">Usuń notatki z Chmury</string>
+  <string name="confirm_cancel">"Nie zgadzam się"</string>
+  <string name="confirm_ok">Zgadzam się</string>
   <string name="cta_confirm_cancel">"Nie zgadzam się"</string>
   <string name="cta_confirm_ok">Zgadzam się</string>
   <string name="cta_dialog_message">Notatki wymagają uprawnień do połączenia z internetem, nagrywania audio, a także odczytu kontaktów, aby działać normalnie. Zezwolić na to?</string>
@@ -149,14 +151,20 @@
   <string name="notelist_menu_new">Dodaj</string>
   <string name="notify_alarm_title">Przypomnienie</string>
   <string name="permdesc_accessNote">Malicious apps can use this to access your personal info.</string>
+  <string name="permission_get_account_desc">Synchronizacja notatek z Chmurą</string>
   <string name="permission_intro_contact">Oznaczanie notatek wykonanych podczas połączeń</string>
   <string name="permission_intro_microphone">Nagrywanie notatek głosowych</string>
   <string name="permission_intro_phone">Oznaczanie notatek wykonanych podczas połączeń</string>
   <string name="permission_intro_storage">Zapisywanie notatek i załączników</string>
+  <string name="permission_microphone_desc">Tworzenie notatek głosowych</string>
+  <string name="permission_network_for_cloud_desc">Aby synchronizować notatki z Chmurą, musisz mieć połączenie z Internetem. Do tej synchronizacji mogą zostać użyte dane mobilne. Połączyć teraz?</string>
+  <string name="permission_read_contact_desc">Powiązywanie notatek tworzonych w trakcie rozmów z kontaktami</string>
   <string name="permlab_accessNote">Dostęp do notatek</string>
   <string name="pref_desc_alarm_when_silent">Alarmy będą słyszalne w trybie cichym</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Przesuń w górę dwoma palcami, aby usunąć notatkę bez potwierdzania"</string>
   <string name="pref_desc_todo_float_mode">Przesuń od krawędzi ekranu, aby otworzyć pasek zadań</string>
+  <string name="pref_remind_type_summary">Odtwórz dźwięk przypomnienia w trybie Godziny ciszy</string>
+  <string name="pref_remind_type_title">Ignoruj Godziny ciszy</string>
   <string name="pref_title_todo_float_mode">Użyj paska narzędzi</string>
   <string name="pref_title_todo_shorcut">Pasek narzędzi</string>
   <string name="pref_title_alarm_when_silent">Alarmy na wyciszeniu</string>
@@ -172,6 +180,7 @@
   <string name="redo">Ponów</string>
   <string name="refuse_to_open_as_pic_because_of_loading">Poczekaj, aż notatka się załaduje, i spróbuj ponownie.</string>
   <string name="refuse_to_share_as_pic_because_of_content">Ta notatka jest zbyt duża, aby ją udostępnić.</string>
+  <string name="remind_title">Przypomnienia</string>
   <string name="rename_folder_dialog_tile">Zmień nazwę katalogu</string>
   <string name="rich_text_bold_description">Pogrubienie</string>
   <string name="rich_text_center_description">Środek</string>

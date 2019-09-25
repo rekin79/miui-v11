@@ -52,6 +52,8 @@
   <string name="longitude">Dług.</string>
   <string name="open_perm_msg">Aplikacja wymaga dostępu do lokalizacji urządzenia i aparatu w celu określenia położenia i wyświetlania podglądu na żywo. Zezwolić?</string>
   <string name="open_perm_title">Wymagane uprawnienia</string>
+  <string name="permission_camera_desc">Używanie poziomicy</string>
+  <string name="permission_location_desc">Wyświetlanie pozycji oraz ciśnienia atmosferycznego</string>
   <string name="preference_other">Pozostałe</string>
     <string name="preference_privacy_title">Polityka Prywatności</string>
   <string name="mobiledata_alert_dialog_message">Połączyć z siecią w celu ustalenia wysokości?</string>
