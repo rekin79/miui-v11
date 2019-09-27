@@ -327,10 +327,12 @@
   <string name="workday_alarm_clock">Pobudka w dzień roboczy</string>
   <string name="worldclock_empty_text">Brak zegarów światowych</string>
   <string name="worldclock_input_hint_text">Wpisz miasto lub kraj</string>
+  <string name="worldclock_resident_city_text">Drugi zegar: %s</string>
+  <string name="worldclock_resident_city_text_detail">Włączony jest Podwójny zegar</string>
   <string name="worldclock_search_city">Wybierz</string>
   <string name="worldclock_title">Zegary</string>
   <string name="worldclock_world_time">Strefy czasowe</string>
-  <string name="worldcolock_date_display_prefix" />
+  <string name="worldcolock_date_display_prefix">""</string>
   <string name="worldcolock_timezone_current">%1$s</string>
   <string name="worldcolock_timezone_current_date">dd.MM.yyyy</string>
   <string name="worldcolock_timezone_date">dd MMM</string>

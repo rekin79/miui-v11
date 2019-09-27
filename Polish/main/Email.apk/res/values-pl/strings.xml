@@ -173,6 +173,7 @@
   <string name="add_pre_message_attachments_no">Nie</string>
   <string name="add_pre_message_attachments_yes">Dodaj</string>
   <string name="add_star">Gwiazdka</string>
+  <string name="all_purpose">Witaj w aplikacji Poczta! Dzięki niej możesz wysyłać i odbierać e-maile na swoim urządzeniu.</string>
   <string name="allread">Przeczytane</string>
   <string name="always_bcc_myself">Prześlij kopię do mnie</string>
   <string name="always_show_images">Zawsze pokazuj obrazy od tego nadawcy</string>
@@ -283,6 +284,7 @@
   <string name="compose_send">Wyślij</string>
   <string name="compose_sent">Wiadomość wysłana</string>
   <string name="confirm">Ok</string>
+  <string name="confirm_age">Potwierdź wiek</string>
   <string name="confirm_before_delete">Potwierdzanie usuwania</string>
   <string name="confirm_before_delete_keywords">potwierdź usunięcie; potwierdzenie usunięcia</string>
   <string name="confirm_before_send">Potwierdzanie wysyłania</string>
@@ -496,6 +498,7 @@ dla:
   <string name="header_category_other">Opinia</string>
   <string name="header_label_general_preferences">Ustawienia ogólne</string>
   <string name="help_and_info">Pomoc</string>
+  <string name="help_email_title">Poczta Xiaomi</string>
   <string name="help_weixin_title">Jeśli masz jakieś pytania, zapraszamy do kontaktu przez nasze oficjalne konto WeChat:\u0020</string>
   <string name="hide_atts_remaining">Ukryj %1$d załączników</string>
   <string name="hide_elided">▼ Ukryj cytowany tekst</string>
@@ -728,6 +731,8 @@ limit skrzynki odbiorczej"</string>
   <string name="outbox_alert_title_sent_failed">Wysyłanie wiadomości nieudane</string>
   <string name="outbox_no_mails">Brak wiadomości</string>
   <string name="outlook_login_failed_non_proxy_title">"Nie udało się uzyskać dostępu do serwera Outlook"</string>
+  <string name="over_16_content">Czy masz powyżej 16 lat?</string>
+  <string name="over_sixteen">"Mam powyżej 16 lat."</string>
   <string name="parase_setup_data">Pobieranie informacji…</string>
   <string name="password_expire_warning_content_title">Hasło ekranu blokady wkrótce wygaśnie</string>
   <string name="password_expire_warning_dialog_content_fmt">Musisz wkrótce zmienić PIN lub hasło ekranu blokady. W przeciwnym razie dane konta %s zostaną usunięte. Zmienić je teraz?</string>
@@ -754,11 +759,17 @@ limit skrzynki odbiorczej"</string>
   <string name="perference_setup_send_tag">Serwer poczty wychodzącej</string>
   <string name="permission_access_provider_desc">Zezwala aplikacji na dostęp do bazy danych e-maili, w tym odebranych i wysłanych wiadomości, nazw użytkowników oraz haseł.</string>
   <string name="permission_access_provider_label">Dostęp do danych dostawcy poczty e-mail</string>
+  <string name="permission_des_calendar">W celu sychronizacji kalendarza z pocztą</string>
+  <string name="permission_des_contact">W celu odczytania adresu e-mail kontaktu, aby móc go szybko wpisać w polu adresata</string>
+  <string name="permission_des_detail">"Jeśli nie nadasz wymaganych uprawnień, nie będziesz mógł używać tej aplikacji. Możesz ją odinstalować, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w dowolnym momencie."</string>
+  <string name="permission_des_phone_status">W celu uzyskania numeru IMEI do identyfikacji urządzeń</string>
+  <string name="permission_des_storage">W celu tworzenia nowych wiadomości oraz zapisywania i dodawania załączników</string>
   <string name="permission_read_attachment_desc">Pozwala aplikacji na odczyt załączników do e-maili.</string>
   <string name="permission_read_attachment_label">Odczyt załączników do e-maili</string>
   <string name="phone">telefon</string>
   <string name="photo_load_failed">Nie udało się załadować obrazu</string>
   <string name="photo_view_count">%1$d z %2$d</string>
+  <string name="pl_select_age">Wybierz wiek.</string>
   <string name="please_fill_in_your_mailbox_information2">Wprowadź swoje dane skrzynki pocztowej</string>
   <string name="policy_app_blacklist">Nie zezwalaj na określone aplikacje</string>
   <string name="policy_app_whitelist">Zezwalaj tylko na określone aplikacje</string>
@@ -807,6 +818,7 @@ limit skrzynki odbiorczej"</string>
   <string name="print">Drukuj</string>
   <string name="privacy_des">"Log zawiera informacje dla programistów przekazane przez aplikację Poczty oraz dane o urządzeniu w celu zlokalizowania Twojego problemu. Wybranie \"%1$s\" oznacza, że przeczytałeś i zaakceptowałeś \"%2$s\"."</string>
   <string name="privacy_policy">Polityka prywatności</string>
+  <string name="privacy_setting_agree">Zgadzam się</string>
   <string name="prompt_title">Potwierdzenie</string>
   <string name="pull_load_more">Pociągnij w dół, aby wyświetlić więcej</string>
   <string name="pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
@@ -927,6 +939,8 @@ Brak połączenia z siecią."</string>
   <string name="service_protocol_discribe">&lt;u&gt;Przeczyta&amp;#322;em i zgadzam si&amp;#281; z Warunkami Us&amp;#322;ugi Poczty WPS&lt;/u&gt;\"</string>
   <string name="service_protocol_title">Umowa o świadczeniu usług</string>
   <string name="set_network">Ustaw sieć</string>
+  <string name="setting_kids_subtitle">"Potwierdź wiek użytkownka"</string>
+  <string name="setting_kids_title">Powyżej 16 lat.</string>
   <string name="settings_activity_title">Ustawienia</string>
   <string name="share_choose">Wybierz plik do udostępnienia</string>
   <string name="sharing">Udostępnij</string>
@@ -1011,6 +1025,8 @@ Brak połączenia z siecią."</string>
   <string name="turn_auto_sync_on_dialog_body">Synchronizacja zmian wprowadzonych przez Ciebie nie tylko w Gmailu, ale we wszystkich aplikacjach i na wszystkich kontach, obejmie internet, Twoje pozostałe urządzenia i Twój %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Włącz</string>
   <string name="turn_auto_sync_on_dialog_title">Włączyć autosynchronizację?</string>
+  <string name="under_16_content">Czy potwierdzasz, że masz poniżej 16 lat?</string>
+  <string name="under_sixteen">"Mam poniżej 16 lat."</string>
   <string name="undo">Cofnij</string>
   <string name="unread_string">wątek nie został przeczytany</string>
   <string name="unselected_lable">Więcej</string>

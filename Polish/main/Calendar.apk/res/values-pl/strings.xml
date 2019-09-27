@@ -134,7 +134,7 @@
   <string name="date_today">" (dzisiaj)"</string>
   <string name="day_view">Dzień</string>
   <string name="day_view_new_event_hint">+ Nowe wydarzenie</string>
-  <string name="default_reminder_later_time">Okres czasu dla \"Później\"</string>
+  <string name="default_reminder_later_time">Przedział czasowy dla \"Później\"</string>
   <string name="default_reminder_mode">Domyślne przypomnienie</string>
   <string name="delete_calendar">Usuń kalendarz</string>
   <string name="delete_recurring_event_title">Usunąć %s?</string>
