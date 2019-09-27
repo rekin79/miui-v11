@@ -1000,7 +1000,7 @@ Aby dodać kontakty do ulubionych:
   <string name="quick_dial_setting_set_dialog_option_set">Tak</string>
   <string name="quick_dial_setting_title">Szybkie wybieranie</string>
   <string name="quickcontact_missing_app">Nie znaleziono aplikacji do obsługi tego działania.</string>
-  <string name="quit_dialog_confirm_message">Nie wszystkie kontakty ostały połączone</string>
+  <string name="quit_dialog_confirm_message">Nie wszystkie kontakty zostały połączone</string>
   <string name="quit_dialog_confirm_title">Zakończyć łączenie kontaktów?</string>
   <string name="readOnlyContactDeleteConfirmation">Ten kontakt posiada dane pochodzące z wielu kont. Informacje z kont przeznaczonych tylko do odczytu zostaną na listach kontaktów ukryte, a nie usunięte.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">Kontakt \"%s\" posiada dane pochodzące z wielu kont. Informacje z kont przeznaczonych tylko do odczytu zostaną na listach kontaktów ukryte, a nie usunięte.</string>
