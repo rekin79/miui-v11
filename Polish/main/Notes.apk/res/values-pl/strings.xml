@@ -289,6 +289,8 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="todo_item_status_delete">Usuń</string>
   <string name="todo_item_status_finished">Ukończone</string>
   <string name="todo_item_status_unfinished">Nieukończone</string>
+  <string name="todo_menu_add_audio_description">Dodaj zadanie głosowe</string>
+  <string name="todo_menu_add_description">Dodaj zadanie</string>
   <string name="todo_menu_cancel">Anuluj</string>
   <string name="todo_menu_delete">Usuń</string>
   <string name="todo_module_name">Zadania</string>

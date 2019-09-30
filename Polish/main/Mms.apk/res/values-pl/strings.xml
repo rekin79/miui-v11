@@ -461,7 +461,7 @@ Do aktywacji tej usługi wymagane jest wysłanie wiadomości SMS, za którą ope
   <string name="networking_allow_desc_without_mx">Wiadomości w Chmurze wymagają dostępu do internetu i kontaktów telefonu. Zezwolić?</string>
   <string name="networking_allow_title">Informacja</string>
   <string name="new_message">Nowa wiadomość</string>
-  <string name="new_message_arrived">Nieprzeczytane</string>
+  <string name="new_message_arrived">Nowa wiadomość</string>
   <string name="new_phrase">Nowy zwrot</string>
   <string name="new_phrase_hint">Dodaj popularny zwrot</string>
   <string name="no">Anuluj</string>
