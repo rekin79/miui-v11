@@ -297,9 +297,12 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="todo_notify_alarm_title">Przypomnienie o zadaniu</string>
   <string name="todo_schedule_time_expired">" (wygasło)"</string>
   <string name="todo_schedule_time_for_picker_hm">H:mm</string>
+  <string name="todo_schedule_time_md">dd.MM.</string>
+  <string name="todo_schedule_time_mdhm">dd.MM. HH:mm</string>
   <string name="todo_schedule_time_today">Dziś</string>
   <string name="todo_schedule_time_tomorrow">Jutro</string>
   <string name="todo_schedule_time_yesterday">Wczoraj</string>
+  <string name="todo_schedule_time_ymdhm">dd.MM.yyyy HH:mm</string>
   <string name="todo_search_hint">Wyszukaj zadania</string>
   <string name="todo_time_picker_title">Ustaw przypomnienie</string>
   <string name="todo_user_guide_fw_pop">Dodaj skrót na pulpicie</string>
