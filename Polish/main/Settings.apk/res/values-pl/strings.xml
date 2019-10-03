@@ -6783,6 +6783,7 @@ Każdy użytkownik może aktualizować aplikacje wszystkich innych użytkownikó
   <string name="virus_scanner_update_lib">Uaktualnij bazę wirusów</string>
   <string name="visibility_override_title">Na ekranie blokady</string>
   <string name="vision_settings_description">Możesz dostosować urządzenie do swoich potrzeb. Funkcje ułatwień dostępu możesz zawsze zmienić w Ustawieniach.</string>
+  <string name="vision_settings_suggestion_title">Zmień rozmiar czcionki</string>
   <string name="vision_settings_title">Ustawienia widoczności</string>
   <string name="voice_assist">Mi SI</string>
   <string name="voice_category">Mowa</string>
