@@ -12,7 +12,7 @@
   <string name="button_back">Cofnij</string>
   <string name="button_clear_storage">Zwolnij miejsce</string>
   <string name="button_confirm">OK</string>
-  <string name="button_goon_recorder">Wznów</string>
+  <string name="button_goon_recorder">Ignoruj</string>
   <string name="cancel_edit">Anuluj</string>
   <string name="cannot_change_frames">FPS może być zmienione tylko dla parametru stałego szybkości filmu.</string>
   <string name="cannot_change_parames">"Podczas nagrywania nie można zmieniać parametrów"</string>
@@ -45,8 +45,8 @@
   <string name="is_go_home_summary">"Powróć do aplikacji Nagrywanie po zatrzymaniu nagrywania"</string>
   <string name="loopback_sound">System</string>
   <string name="low_battery">Naładuj telefon przed nagrywaniem</string>
-  <string name="low_battery_title">Niski stan ładowania</string>
-  <string name="low_battery_warning">Niski stan ładowania. Nagrywanie zostało zatrzymane i zapisane.</string>
+  <string name="low_battery_title">Niski poziom baterii</string>
+  <string name="low_battery_warning">Niski poziom baterii. Nagrywanie zostało zatrzymane i zapisane.</string>
   <string name="low_memory">W pamięci pozostało mniej niż 1 GB. Możesz nagrać do 20 minut.</string>
   <string name="low_memory_title">Kończy się miejsce</string>
   <string name="low_momery_warning">Brak miejsca. Nagrywanie zostało zatrzymane i zapisane.</string>
